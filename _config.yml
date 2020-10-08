@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Quaranteam
+title: 'Quaranteam User Documentation'
+logo: './img/Quaranteam-textonly.png'
 email: biyaoc@student.unimelb.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Qauranteam ePortfolio Platform helps create highly customisable ePortfolios for every purpose.
@@ -30,6 +31,11 @@ github_username: Winnie76
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+# Color scheme supports "light" (default) and "dark"
+# color_scheme: dark
+# Footer content
+# appears at the bottom of every page's main content
+footer_content: 'Copyright &copy; 2020 Quaranteam <a href="https://eportfolio-quaranteam.herokuapp.com/">Quaranteam App.</a>'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
