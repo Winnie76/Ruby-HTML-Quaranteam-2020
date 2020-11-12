@@ -17,7 +17,7 @@ We provide many templates for the convenience of users. In addition to that, a c
 
 
 Edit ePortfolios    
-Each ePortfolio contains lots of items. Users could edit each items using tools available in the sidebar. Texts, images, links....could be put in the items.     
+Each ePortfolio contains lots of items. Users could edit each items using tools available in the sidebar. Texts, images, links, privacy....could be set in the items.         
 ![edit1](../img/edit1.PNG)
 ![edit2](../img/edit2.PNG)
 ![edit3](../img/edit3.PNG)
