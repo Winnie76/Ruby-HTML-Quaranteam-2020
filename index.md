@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![us](../img/us.jpg)  
+![us](img/us.jpg)  
 
 
     Hi!
