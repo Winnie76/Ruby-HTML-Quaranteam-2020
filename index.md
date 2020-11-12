@@ -5,7 +5,6 @@
 layout: home
 ---
 
-![us](img/us.jpg)  
 
 
     Hi!
@@ -18,3 +17,5 @@ layout: home
 
                                             Regards,
                                             Quaranteam
+
+![us](img/us.jpg)  
