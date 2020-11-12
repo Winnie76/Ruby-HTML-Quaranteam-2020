@@ -40,4 +40,4 @@ Users could edit or delete comments on items.
 
 Share ePortfolio links     
 By clicking 'get link' from each ePortfolio in the dashboard, users could share their ePortfolios with others.
-![share](../img/share.png)
+![share](../img/share.PNG)
