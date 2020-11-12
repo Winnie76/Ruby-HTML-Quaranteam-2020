@@ -5,4 +5,4 @@ parent: Preset Themes
 nav_order: 10
 ---
 
-![theme10](../../img/theme10.jpg)
+![theme10](../img/theme10.jpg)
