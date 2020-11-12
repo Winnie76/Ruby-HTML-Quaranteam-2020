@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 Users could access the dashboard after login.              
+                                                     
 The dashboard contains all existing ePortfolios and favourited ePortfolios made by others or user himself/herself.       
                    
                        
