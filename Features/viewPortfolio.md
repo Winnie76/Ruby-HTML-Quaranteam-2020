@@ -7,7 +7,8 @@ nav_order: 4
 
 
                                                      
-View ePortfolios                                        
+View ePortfolios        
+                                                            
 Users could right click on ePortfolios in dashboard and select 'view' to view ePortfolios.                           
 
     Comments
