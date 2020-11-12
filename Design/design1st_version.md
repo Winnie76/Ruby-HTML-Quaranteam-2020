@@ -4,7 +4,8 @@ title: 1st Version
 parent: Design
 nav_order: 0
 ---
-    According to the requests of our clients, consistency of colors with the logo is needed for the application.                           
+    According to the requests of our clients, consistency of colors                                            
+    with the logo is needed for the application.                                                 
     Blue color should appear more often throughout the application.                                 
     Hence we re-designed the application completely using Figma.                                             
                                                     
