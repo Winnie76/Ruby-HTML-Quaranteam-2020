@@ -18,7 +18,7 @@ Edit ePortfolios
                                           
 
 
-    Edit
+    Edit items
      Users could edit each item by     
      -set privacy of each item          
      -set title, subtitle, paragraph             
