@@ -21,7 +21,7 @@ Create ePortfolios
                                                 
 
                                             
-    We provide many templates for the convenience of users.    
+    We provide many ePortfolio templates for the convenience of users.    
     In addition to that, a completely blank templates is available         
     if users prefer designing their own ePortfolios.                                  
                                                          
