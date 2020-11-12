@@ -4,14 +4,15 @@
 
 layout: home
 ---
+![us](../img/us.jpg)
 
     Hi!
 
     Welcome to Quaranteam User Documentation!
 
-    Please navigate through sidebar and explore our App!
+    Please navigate through sidebar and explore!
 
-    We are happy to hear from you!
+    We are happy for your visit!
 
                                             Regards,
                                             Quaranteam
