@@ -15,11 +15,13 @@ The dashboard contains all existing ePortfolios and favourited ePortfolios made 
         -edit                 
         -delete                    
         -get link                          
-![existingPortfolios](../img/existingPortfolio.PNG)                
+
+![existingPortfolios](../img/existingPortfolio.PNG)                                    
                          
                           
                                   
     favourited ePortfolios functions:   
         -view                                
         -get link                                  
+                              
 ![favouritedPortfolios](../img/favouritedPortfolio.PNG)           
