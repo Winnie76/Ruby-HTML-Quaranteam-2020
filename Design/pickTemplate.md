@@ -4,7 +4,7 @@ title: Pick a template
 parent: Design
 nav_order: 6
 ---
-All templates available:
+All templates available:  
 BLANK
 CLASSIC
 MINIMAL
