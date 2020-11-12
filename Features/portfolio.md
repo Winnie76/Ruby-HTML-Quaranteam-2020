@@ -20,7 +20,6 @@ Edit ePortfolios
 Each ePortfolio contains lots of items. Users could edit each items using tools available in the sidebar. Texts, images, links, privacy....could be set in the items.         
 ![edit1](../img/edit1.PNG)
 ![edit2](../img/edit2.PNG)
-![edit3](../img/edit3.PNG)
 
 Options    
 ![option1](../img/option1.PNG)
