@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Pick a template
-parent: Design
-nav_order: 3
+title: Templates available
+permalink: /templates
 ---
 All templates available:  
 BLANK    
@@ -15,4 +14,4 @@ BOLD
 CREATIVE    
 PROFESSIONAL    
 PHOTOGRAPHY    
-![pickTemplates](../img/Pick a template.jpg)    
+![pickTemplates](img/Pick a template.jpg)    
