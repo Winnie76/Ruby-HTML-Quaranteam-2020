@@ -4,7 +4,8 @@ title: Landing Page
 parent: Design
 nav_order: 1
 ---
-Colors used for landing page design:
+Colors used for landing page design:       
+
 ![color](../img/color.PNG)
 
 Landing page:
