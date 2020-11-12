@@ -7,15 +7,15 @@ layout: home
 
 
 
-    Hi!
+         Hi!
 
-    Welcome to Quaranteam User Documentation!
+        Welcome to Quaranteam User Documentation!
 
-    Please navigate through sidebar and explore!
+        Please navigate through sidebar and explore!
 
-    We are happy for your visit!
+        We are happy for your visit!
 
-                                            Regards,
-                                            Quaranteam
+                                                Regards,
+                                                Quaranteam
 
 ![us](img/us.jpg)  
