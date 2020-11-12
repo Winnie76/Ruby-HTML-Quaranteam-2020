@@ -4,5 +4,5 @@ title: Dashboard
 parent: Design
 nav_order: 5
 ---
-
-![Dashboard](../img/dashboard.jpg)
+User's dashboard:
+![Dashboard](../img/Dashboard.jpg)
