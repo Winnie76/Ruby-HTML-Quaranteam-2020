@@ -5,12 +5,12 @@ parent: Features
 nav_order: 1
 ---
 
-Users could access the dashboard after login.    
-The dashboard contains all existing ePortfolios and users' favourite ePortfolios made by user or others.    
+Users could access the dashboard after login.              
+The dashboard contains all existing ePortfolios and favourited ePortfolios made by others or user himself/herself.       
                    
                        
                           
-existing ePortfolios:           
+existing ePortfolios functions:           
 -view             
 -edit                 
 -delete                    
@@ -19,7 +19,7 @@ existing ePortfolios:
                          
                           
                                   
-favourited ePortfolios:   
+favourited ePortfolios functions:   
 -view                                
 -get link                                  
 ![favouritedPortfolios](../img/favouritedPortfolio.PNG)           
