@@ -4,7 +4,9 @@
 
 layout: home
 ---
+
 ![us](../img/us.jpg)
+
 
     Hi!
 
