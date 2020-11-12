@@ -18,4 +18,3 @@ layout: home
                                                     Regards,
                                                     Quaranteam
 
-![us](img/us.jpg)  
