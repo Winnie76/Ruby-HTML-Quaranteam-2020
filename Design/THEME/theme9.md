@@ -1,6 +1,6 @@
 ---
 layout: page
 title: theme9
-parent: THEME
+parent: Preset Themes
 nav_order: 9
 ---

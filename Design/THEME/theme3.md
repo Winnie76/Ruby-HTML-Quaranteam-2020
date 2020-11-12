@@ -1,6 +1,6 @@
 ---
 layout: page
 title: theme3
-parent: THEME
+parent: Preset Themes
 nav_order: 3
 ---

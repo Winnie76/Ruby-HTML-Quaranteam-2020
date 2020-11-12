@@ -1,6 +1,6 @@
 ---
 layout: page
 title: theme1
-parent: THEME
+parent: Preset Themes
 nav_order: 1
 ---

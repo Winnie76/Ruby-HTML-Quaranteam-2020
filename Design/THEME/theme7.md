@@ -1,6 +1,6 @@
 ---
 layout: page
 title: theme7
-parent: THEME
+parent: Preset Themes
 nav_order: 7
 ---
