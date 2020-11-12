@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Developers
+nav_order: 6
 permalink: /developers/
 ---
 

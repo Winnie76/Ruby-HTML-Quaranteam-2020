@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Templates available
+nav_order: 5
 permalink: /templates
 ---
 All templates available:  
