@@ -2,7 +2,7 @@
 layout: page
 title: Pick a template
 parent: Design
-nav_order: 6
+nav_order: 3
 ---
 All templates available:  
 BLANK
