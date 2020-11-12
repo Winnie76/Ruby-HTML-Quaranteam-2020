@@ -2,7 +2,7 @@
 layout: page
 title: Delete ePortfolio
 parent: Features
-nav_order: 6
+nav_order: 7
 ---
 
 Delete ePortfolio               
