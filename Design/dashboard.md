@@ -4,5 +4,6 @@ title: Dashboard
 parent: Design
 nav_order: 2
 ---
-User's dashboard:
+    User's dashboard:                    
+                                             
 ![Dashboard](../img/dashboard.jpg)
