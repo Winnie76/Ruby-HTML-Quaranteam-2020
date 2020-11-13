@@ -14,4 +14,6 @@ nav_order: 1
 
     Material UI was used to facilitate the design of interface.
                                                 
+    Google Fonts was used to allow for portfolio customisation for users.                                
+                                                                       
     The purpose of design is to make Quanranteam App look professional and easy to use.                      
